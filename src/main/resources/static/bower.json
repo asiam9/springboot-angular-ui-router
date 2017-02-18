@@ -1,0 +1,29 @@
+{
+  "name": "angular-ui-router",
+  "authors": [
+    "Bruno Arcanjo <bm.arcanjo@gmail.com>"
+  ],
+  "description": "Projeto Angular SPA com ui-router",
+  "main": "bower.js",
+  "keywords": [
+    "angular",
+    "SPA",
+    "route",
+    "ui-router"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-ui-router": "^0.4.2",
+    "bootstrap": "https://github.com/twbs/bootstrap.git#^3.3.7"
+  }
+}
